@@ -7,7 +7,5 @@ import lombok.EqualsAndHashCode;
 @EqualsAndHashCode(callSuper=false)
 public class PersonDto extends BaseDto {
 
-    private String name;
-    private Integer age;
     private String socialSecurityNumber;
 }

@@ -7,6 +7,5 @@ import lombok.EqualsAndHashCode;
 @EqualsAndHashCode(callSuper=false)
 public class AnimalDto extends BaseDto {
 
-    private String name;
-    private Integer age;
+    private String furColor;
 }

@@ -10,6 +10,5 @@ import javax.persistence.Entity;
 @EqualsAndHashCode(callSuper=false)
 public class PersonEntity extends BaseEntity {
 
-
     private String socialSecurityNumber;
 }
