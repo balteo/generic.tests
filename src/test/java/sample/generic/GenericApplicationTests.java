@@ -1,4 +1,4 @@
-package sample.generic.generic;
+package sample.generic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
